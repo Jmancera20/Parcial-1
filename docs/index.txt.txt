@@ -1,0 +1,6 @@
+ÍNDICE DOCUMENTAL
+
+1. Descripción del proyecto
+2. Configuración del sistema
+3. Código fuente en main.py
+4. Buenas prácticas de control de versiones (ver pasos de Git)

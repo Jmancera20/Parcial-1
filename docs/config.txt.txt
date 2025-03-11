@@ -1,0 +1,8 @@
+CONFIGURACIÓN DEL PROYECTO
+
+Lenguaje: Python 3
+Estructura: 
+- main.py contiene el código fuente del sistema de cálculo.
+- readme.txt tiene la descripción general del proyecto.
+- docs/index.txt incluye el índice documental.
+- docs/config.txt contiene la configuración base.
